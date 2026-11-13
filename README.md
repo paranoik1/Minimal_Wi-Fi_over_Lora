@@ -44,7 +44,8 @@ Android-приложение собирает полученные пакеты,
 ## Roadmap
 
 - [ ] Написать главы, перечисленные в [FUTURE_CHAPTERS.md](./FUTURE_CHAPTERS.md)
-- [ ] Roadmap **[Linux Server](https://github.com/paranoik1)**
+- [ ] Roadmap **[Linux Server](https://github.com/paranoik1/minimal-wifi-over-lora-server)**
+- [ ] Roadmap **[ESP32 Client](https://github.com/paranoik1/minimal-wifi-over-lora-esp)**
 - [ ] Реализовать минималистичное Android приложение
 - [ ] Реализовать и протестировать передачу данных, используя Fountain Codes
 
